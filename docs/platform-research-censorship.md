@@ -18,6 +18,8 @@ The "would be nice" requirements are:
 * For the resource to run completely offline, but to securely/privately request updates when started
 * Provide end-users with the means to securely communicate back to the project, sending questions, updates, translations, etc.
 
+All of these would need to be evaluated in more detail, after assessing the level of filtering and risk in the target countries.
+
 ## Solutions to explore
 
 ### Leap EIP
@@ -68,6 +70,9 @@ https://deflect.ca/
 
 Who to talk to:
 * 
+
+### Tor hidden services
+
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org

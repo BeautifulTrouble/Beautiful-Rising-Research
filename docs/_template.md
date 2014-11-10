@@ -38,3 +38,10 @@ These are useful resources for updating these documents:
 * https://guides.github.com/features/mastering-markdown/index.html
 * http://daringfireball.net/projects/markdown/syntax
 * https://help.github.com/articles/github-flavored-markdown/
+
+
+[aadk]: http://actionaid.org
+[bt]: http://beautifultrouble.org
+[bsol]: http://beautifulsolutions.info
+[brising]: http://beautifulrising.org
+[advisorynetwork]: http://beautifulrising.org/news/#announcing-the-first-members-of-the-beautiful-rising-advisory-network

@@ -10,4 +10,5 @@ Beautiful Rising: Ideas & Raw Material
 
 ## Raw material
 
-* Automatically display online/offline indication to your users. <http://github.hubspot.com/offline/docs/welcome>
+* Automatically display online/offline indication to your users. http://github.hubspot.com/offline/docs/welcome
+* Various demonstration apps developed by the fine folks at Firebase, https://firebase.github.io/

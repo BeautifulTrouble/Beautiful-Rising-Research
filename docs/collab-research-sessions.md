@@ -65,6 +65,17 @@ http://deaddrops.com/
 
 Who to talk to:
 
+### Firechat
+_FireChat introduces a new way to chat: "off-the-grid". Now you can chat with people around you – even if there is no Internet connection or mobile phone coverage_
+
+https://opengarden.com/firechat
+
+* Available for iOS & Android :thumbsup:
+* Enables peer-to-peer communication over wi-fi or Bluetooth.
+* Not open source :thumbsdown:
+
+Who to talk to:
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info

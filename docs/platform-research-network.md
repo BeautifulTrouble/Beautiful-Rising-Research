@@ -55,6 +55,39 @@ http://phiron.de/projects/social-teletext-network/
 Who to talk to:
 * Gabi Sobliye mentioned this on the first [advisory network][advisorynetwork] call
 
+### Twitter
+_Micro-blogging, status updates available on a variety of platforms
+
+https://about.twitter.com/products/list
+
+* Ubiquitous :thumbsup:
+* Not open source :thumbsdown:
+
+### Facebook
+_I think you probably know about it?_
+
+https://www.facebook.com/mobile/?ref=pf
+
+* Relatively ubiquitous :thumbsup:
+* Most people already using :thumbsup:
+* Privacy issues to work around :thumbsdown:
+
+### Google Plus
+_The other Facebook, by Google_
+
+http://en.wikipedia.org/wiki/Google%2B
+
+* Pretty much the same as the above
+
+### WhatsApp
+_WhatsApp Messenger is a cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS. WhatsApp Messenger is available for iPhone, BlackBerry, Android, Windows Phone and Nokia._
+
+* Cross-platform, cross-hardware :thumbsup:
+* Free to use :thumbsup:
+* Not open source :thumbsdown:
+* Partnered with Facebook :question:
+
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info

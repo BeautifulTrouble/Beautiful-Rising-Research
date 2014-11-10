@@ -7,11 +7,16 @@ To date, Beautiful Trouble has published a "full edition" in English, and a "poc
 
 We have not yet, however, endeavoured to make those translations avaialble on the Beautiful Trouble web site. The Beautiful Rising project requires that the core content be avaialbe in several languages.
 
+Specifically, the knowledge platform will be developed to be multi-lingual, both the content and the user interface, meaning that it can accept submissions and display content in multiple languages.
+
 ## Requirements
 
 The minimum requirements for the project's needs are:
 
+* To make it possible for content in languages other than English to be submitted to the knowledge platform, and -- in turn -- for those alternative-language version of the content to be made available to all access points into the platform.
 * Provide translators with the finalized "core" content and a means to submit back translations
+
+This will require a fair bit of architectural planning to accommodate, but there is significant “prior art” on how to accomplish this technically, and “internationalization” is a well-understood requirement of most contemporary software, frameworks, and platforms. 
 
 The "would be nice" requirements are:
 
