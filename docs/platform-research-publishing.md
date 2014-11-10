@@ -1,4 +1,4 @@
-Beautiful Rising: Publishing & Distributing Beautiful Rising 
+Publishing & Distributing Beautiful Rising 
 ============================================================
 
 Reviewing the options below, can you speak to what solutions your own organization or the organizations that you work with in the Global South use to address these needs? Are there solutions that are particularly well-suited that we should be looking into? Are there solutions that we should avoid? And, if so, why?
