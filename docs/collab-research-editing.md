@@ -31,7 +31,7 @@ _Markdown text documents on Github (like this very document)._
 
 Who to talk to:
 * @phillipadsmith 
-* @aureliamoser
+* @auremoser
 
 #### + Prose.io (for WYSIWYG editing)
 _Prose provides a beatifully simple content authoring environment for CMS-free websites. It's a web-based interface for managing content on GitHub. Use it to create, edit, and delete files, and save your changes directly to GitHub._
@@ -55,7 +55,7 @@ http://etherpad.org
 
 Who to talk to:
 * @phillipadsmith 
-* @aureliamoser
+* @auremoser
 
 ## VEtherpad
 _Skype and Hangouts alternative_
