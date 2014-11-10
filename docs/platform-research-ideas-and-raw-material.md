@@ -1,0 +1,13 @@
+Beautiful Rising: Ideas & Raw Material
+============================================
+
+## Interesting ideas
+
+* CLAHub, Contributor License Agreements on GitHub https://www.clahub.com/
+* Monitoring up-votes in Github pull requests to assess the support a PR has, https://github.com/openpolitics/votebot
+* CIVIC SOFTWARE CHECKLIST, http://pudo.org/projects/checklist/index.html
+* Twist tackles the biggest problems that prevent most companies from building an automated regression suite that can keep pace with their complex changing application, http://www.thoughtworks.com/products/twist-agile-testing
+
+## Raw material
+
+* Automatically display online/offline indication to your users. <http://github.hubspot.com/offline/docs/welcome>
