@@ -9,16 +9,26 @@ Beautiful Trouble has yet to deloy a smartphone-specific product, either HTML5 o
 
 The minimum requirements for the project's needs in this category are:
 
-* Ensuring the resource is available to users with smartphones
+* Making the resource available and fully functional to users without desktop or laptop computers, accessing it from a smartphone. 
 
 The "would be nice" requirements are:
 
-* Making the resource available in online "app stores" and so on 
+* Develop a “downloadable app” (but an open-source app, not one that is available exclusively through app stores) that is optimized for smartphones, which uses the phone’s local storage capacity to store the most up-to-date version of the resource, making it quick to use and available without a data connection.
 
 There is some overlap here with the [publishing](docs/platform-research-publishing.md) research.
 
 ## Solutions to explore
- 
+
+### PhoneGap
+_PhoneGap is a free and open source framework that allows you to create mobile apps using standardized web APIs for the platforms you care about._
+
+> Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript
+
+* Open source :thumbsup:
+
+Who to talk to:
+* @phillipadsmith knows the founder
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info

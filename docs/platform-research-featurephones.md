@@ -17,8 +17,6 @@ The "would be nice" requirements are:
 * An IVR-driven interface to user-contributed “readings” of module content.
 * Or a combination of the two ideas above, e.g., SMS would be used to search for relevant modules. Once a user identified the module they would like to have access to, they would be provided with a number to call (or a number to SMS, which would trigger a call out to user). The module content would be delivered as an audio recording with IVR prompts to explore further.
 
-There is some overlap here with the [publishing](docs/platform-research-publishing.md) research.
-
 ## Solutions to explore
 
 ### Twitter

@@ -15,7 +15,7 @@ The "would be nice" requirements are:
 
 * An “offline mode” for the resource that would allow it to be downloaded once (when Internet is available) and would then be available for use or distribution without an Internet connection.
 
-There is some overlap here with the [publishing](docs/platform-research-publishing.md) research.
+There is some overlap here with the [publishing](../docs/platform-research-publishing.md) research.
 
 ## Solutions to explore
  
