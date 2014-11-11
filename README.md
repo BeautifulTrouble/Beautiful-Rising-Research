@@ -4,7 +4,7 @@ Beautiful Rising Collaboration & Knowledge Platform Research
 > **Beautiful Rising: A Global Toolbox for Changemakers**
 > [ActionAid Denmark][aadk] & [Beautiful Trouble][bt] are teaming up with activists, movements & organizations across the Global South to assemble a toolkit of creative activism that will showcase the innovative tactics & strategies of southern social movements. 
 
-Research question: What are the most "appropriate technologies" for collaboration & content delivery when working with activists and organizers in the Global South?
+**Research question**: What are the most "appropriate technologies" for collaboration & content delivery when working with activists and organizers in the Global South?
 
 ## Beautiful Rising’s technical objectives
 
