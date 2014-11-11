@@ -35,6 +35,16 @@ Who to talk to:
 * Most of us, I would guess
 * We've set-up the [advisory network][advisorynetwork] mailing list there for starters
 
+### Pulse 
+_Pulse (previously Syncthing) replaces proprietary sync and cloud services with something open, trustworthy and distributed. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party, and how it's transmitted over the Internet._
+
+https://ind.ie/pulse/
+
+* Open source :thumbsup:
+* Private. None of your data is ever stored anywhere other than on your devices. There is no central server that might be compromised, legally or illegally. :thumbsup:
+* Encrypted. All communication is secured using TLS. The encryption used includes perfect forward secrecy to prevent any eavesdropper from ever gaining access to your data. :thumbsup:
+* Authenticated. Every node is identified by a strong cryptographic certificate. Only nodes you have explicitly allowed can connect to your cluster. :thumbsup:
+
 ### ownCloud
 _ownCloud provides access to your data through a web interface or WebDAV while providing a platform to easily view, sync and share across devices—all under your control. ownCloud’s open architecture is extensible via a simple but powerful API for applications and plugins and works with any storage._
 http://owncloud.org
