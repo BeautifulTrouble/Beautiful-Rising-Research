@@ -9,6 +9,8 @@ Beautiful Rising: Ideas & Raw Material
 
 ## Interesting ideas
 
+* Unlicense Yourself: Set Your Code Free  http://unlicense.org/
+* GitCop, Police Your Commit Messages, https://gitcop.com/
 * CLAHub, Contributor License Agreements on GitHub https://www.clahub.com/
 * Monitoring up-votes in Github pull requests to assess the support a PR has, https://github.com/openpolitics/votebot
 * CIVIC SOFTWARE CHECKLIST, http://pudo.org/projects/checklist/index.html
