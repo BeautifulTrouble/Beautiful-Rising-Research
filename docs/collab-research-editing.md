@@ -82,7 +82,7 @@ https://help.github.com/articles/about-github-wikis/
 Who to talk to:
 * @phillipadsmith for [Bricolage](https://github.com/bricoleurs/bricolage/wiki)
 
-## Github Wiki + Gollum** 
+## Github Wiki + Gollum
 _Gollum provides an offline editing interface in the browser to a Github Wiki_
 https://github.com/gollum/gollum
 
