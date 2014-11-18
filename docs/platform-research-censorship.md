@@ -82,6 +82,12 @@ https://opengarden.com/firechat
 * Enables peer-to-peer communication over wi-fi or Bluetooth.
 * Not open source :thumbsdown:
 
+
+## Other research & reviews
+
+* [The Best Secure Messaging Tools](http://projects.propublica.org/graphics/privacy-tools)
+
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
