@@ -63,7 +63,7 @@ Some of the preliminary categories of challenges and opportunities that we've id
 * [Access in countries that implement filtering / censorship](docs/platform-research-censorship.md)
 * [Access from smart phones](docs/platform-research-smartphones.md)
 * [Access from feature(less) phones](docs/platform-research-featurephones.md)
-* [Multilingual content/Tranlations](docs/platform-research-translation.md)
+* [Multilingual content/Translations](docs/platform-research-translation.md)
 * [User-submitted material](docs/platform-research-submissions.md)
 * [Reuse & remixing](docs/platform-research-remixing.md)
 * [Other delivery mediums](docs/platform-research-analog.md)
