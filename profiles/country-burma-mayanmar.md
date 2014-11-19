@@ -1,6 +1,11 @@
 Beautiful Rising: Country profile, Burma (Mayanmar)
 ==================================================
 
+## Quotes
+
+> Discovering the monopoly of Viber among the chat apps was the biggest surprise for us. More people use Viber than Facebook and other heavyweights of the world like WhatsApp, WeChat and Line, barely register. [Source](https://ondeviceresearch.com/blog/myanmar-mobile-internet-report)
+
+
 ## Useful statistics
 
 ### Internet use, penetration, constraints, etc.
@@ -16,8 +21,6 @@ Beautiful Rising: Country profile, Burma (Mayanmar)
 
 ### Mobile
 
-> Discovering the monopoly of Viber among the chat apps was the biggest surprise for us. More people use Viber than Facebook and other heavyweights of the world like WhatsApp, WeChat and Line, barely register. [Source](https://ondeviceresearch.com/blog/myanmar-mobile-internet-report)
-
 * Half of mobile internet population came online during the past 12 months
 * For 49% of the respondents mobile is the only way to go online
 * Huawei is the most popular handset manufacturer, 71% are using one of their phones
@@ -31,4 +34,4 @@ Beautiful Rising: Country profile, Burma (Mayanmar)
 
 ## To read/review
 
-* 
+* [Digital Myanmar](http://digitalmyanmar.net/)
