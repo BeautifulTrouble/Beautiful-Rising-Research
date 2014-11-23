@@ -3,7 +3,7 @@ Beautiful Rising: Collaborative document editing
 
 Reviewing the options below, can you speak to what solutions your own organization or the organizations that you work with in the Global South use to address these needs? Are there solutions that are particularly well-suited that we should be looking into? Are there solutions that we should avoid? And, if so, why?
 
-To date, Beautiful Trouble has used Google Docs entensively and exclusively for colalborative document editing. For many reasons, we are currently exploring other options for Beautiful Rising.
+To date, Beautiful Trouble has used Google Docs intensively and exclusively for colalborative document editing. For many reasons, we are currently exploring other options for Beautiful Rising.
 
 ## Requirements
 
