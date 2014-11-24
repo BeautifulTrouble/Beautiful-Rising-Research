@@ -52,7 +52,7 @@ http://www.frontlinesms.com/technologies/frontlinesms-overview/
 Who to talk to:
 * Two of our [advisory network members]() for sure :thumbsup:
 
-### Google's Project Sheild
+### Google's Project Shield
 _Project Shield is an initiative launched by Google Ideas to use Google's own Distributed Denial of Service (DDoS) attack mitigation technology to protect free expression online. The service allows other websites to serve their content through Google’s infrastructure without having to move their hosting location._
 https://projectshield.withgoogle.com/en/
 
