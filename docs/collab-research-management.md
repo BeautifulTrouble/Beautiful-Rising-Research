@@ -3,7 +3,7 @@ Beautiful Rising: Project management & internal communications
 
 Reviewing the options below, can you speak to what solutions your own organization or the organizations that you work with in the Global South use to address these needs? Are there solutions that are particularly well-suited that we should be looking into? Are there solutions that we should avoid? And, if so, why?
 
-To date, Beautiful Trouble has used [Basecamp](https://basecamp.com/) almost exclusively. In fact, the entier Beautiful Trouble ecosystem -- Beautiful Trouble Training, Beautiful Rising, Beautiful Solutions, Climate Ribbon, etc. -- have doubled-down on Basecamp for the time being, as a way to organize our various projects and calendars in one central system. For better or worse, that's where we are today.
+To date, Beautiful Trouble has used [Basecamp](https://basecamp.com/) almost exclusively. In fact, the entire Beautiful Trouble ecosystem -- Beautiful Trouble Training, Beautiful Rising, Beautiful Solutions, Climate Ribbon, etc. -- have doubled-down on Basecamp for the time being, as a way to organize our various projects and calendars in one central system. For better or worse, that's where we are today.
 
 ## Requirements
 
