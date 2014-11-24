@@ -3,7 +3,7 @@ Beautiful Rising: Reuse & remixing
 
 Reviewing the options below, can you speak to what solutions your own organization or the organizations that you work with in the Global South use to address these needs? Are there solutions that are particularly well-suited that we should be looking into? Are there solutions that we should avoid? And, if so, why?
 
-To date, Beautiful Trouble has experimented with a [JSON API](http://beautifultrouble.org/api/) to it's structured content (Tactics, Principles, Theories, Practitioners, and Case Studies). The API has been used to create an [experimental data visualization & monadic exploration tool](http://explore.beautifultrouble.org/#-1:00000).
+To date, Beautiful Trouble has experimented with a [JSON API](http://beautifultrouble.org/api/) to its structured content (Tactics, Principles, Theories, Practitioners, and Case Studies). The API has been used to create an [experimental data visualization & monadic exploration tool](http://explore.beautifultrouble.org/#-1:00000).
 
 We see this idea -- an API to the underlying content -- as a core concept (rather than an add-on) of the Beautiful Rising project, and an opportunity to be able to rapidly prototype new products or ideas while working directly with activists in the Global South.
 
