@@ -73,6 +73,8 @@ Who to talk to:
 
 ### Tor hidden services
 
+* Dave is experimenting with various tools & plugins for Mac Chrome/Firefox as well as for Android developed by TOR and the Electronic Frontier Foundation: TorBrowser, Ghostery, HTTPS Everywhere, Privacy Badger, etc.
+
 ### Firechat
 _FireChat introduces a new way to chat: "off-the-grid". Now you can chat with people around you – even if there is no Internet connection or mobile phone coverage_
 
@@ -86,7 +88,6 @@ https://opengarden.com/firechat
 ## Other research & reviews
 
 * [The Best Secure Messaging Tools](http://projects.propublica.org/graphics/privacy-tools)
-
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
