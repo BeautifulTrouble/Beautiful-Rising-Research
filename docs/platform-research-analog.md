@@ -12,3 +12,5 @@ To date, Beautiful Trouble has been delivered electronically or via a dead-tree 
 ### Radio
 
 ### Moving image
+
+### The ability to pull selected material from website into printable pdf
