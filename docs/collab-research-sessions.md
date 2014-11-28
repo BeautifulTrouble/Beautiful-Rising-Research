@@ -31,7 +31,8 @@ http://piratebox.cc/
 * Might be difficult for non-technical folks to troubleshoot :thumbsdown:
 
 Who to talk to:
-* @auremoser
+
+* [@auremoser](https://twitter.com/auremoser) | [keybase](https://keybase.io/aure)
 
 ### BRCK
 _The go anywhere, do anything, self-powered, mobile WiFi device._
@@ -42,6 +43,7 @@ http://www.brck.com/
 * No API for developing add-ons
 
 Who to talk to:
+
 * @phillipadsmith has one, is experimenting with putting OpenWRT on it to solve some issues
 
 ### LibraryBox
@@ -64,6 +66,17 @@ http://deaddrops.com/
 * Pretty low-fi way to distribute files! :thumbsup:
 
 Who to talk to:
+
+### Guardian Projects
+_Lots of open source offerings, including [Orbot](https://guardianproject.info/apps/orbot/), a proxy app for browsing android with Tor, and [Chat Secure](https://guardianproject.info/apps/chatsecure/) for encrypted chatting,_
+
+* Open source encrypted communication software! :thumbsup:
+* Emphasis on affordable support platforms (android/firefox vs. iOS) :thumbsup:
+
+Who to talk to:  
+
+* [@auremoser](https://twitter.com/auremoser) | [keybase](https://keybase.io/aure)  
+* [@harlo](https://twitter.com/harlo) | [keybase](https://keybase.io/harlo)
 
 ### Firechat
 _FireChat introduces a new way to chat: "off-the-grid". Now you can chat with people around you – even if there is no Internet connection or mobile phone coverage_
