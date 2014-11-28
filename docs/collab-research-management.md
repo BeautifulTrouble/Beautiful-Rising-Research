@@ -32,6 +32,7 @@ https://help.riseup.net/
 * Mailing lists are simple to use :thumbsup:
 
 Who to talk to:
+
 * Most of us, I would guess
 * We've set-up the [advisory network][advisorynetwork] mailing list there for starters
 
@@ -50,6 +51,7 @@ _ownCloud provides access to your data through a web interface or WebDAV while p
 http://owncloud.org
 
 Who to talk to:
+
 * Gabi Sobliye at Tactical Tech :question:
 
 ### Github issues
@@ -61,16 +63,44 @@ https://github.com/blog/831-issues-2-0-the-next-generation
 * Might be possible to anonymize issue submission with [Redliner](https://github.com/benbalter/redliner) :question:
 
 Who to talk to:
+
 * @adrian-the-git & @phillipadsmith use them lightly for other Beautiful Trouble projects on Github
 * They are used by many for both open source software project, and documentation projects
-* Even for [collaboratively writing a political manifesto](https://github.com/openpolitics/manifesto/issues)
+* Even for [collaboratively writing a political manifesto](https://github.com/openpolitics/manifesto/issues) or [providing a guide to open source civic software](https://github.com/pudo-attic/civic-software-checklist)
 
 ### Phabricator 
 _A collection of open source web applications that help software companies build better software_
 http://phabricator.org/
 
 Who to talk to:
-* @auremoser is using, I think
+
+* [@auremoser](https://twitter.com/auremoser) is using
+
+### Discourse
+_Free, open forum management tool for open threaded discussions_
+
+http://www.discourse.org/
+
+Who to talk to:
+
+* [@auremoser](https://twitter.com/auremoser) is using
+
+
+### Plotr
+_A collaborative Gantt chart tool that ports from Google spreadsheets, used at Ushahidi for tracking long term project goals and plumline milestones_
+
+Repo: [https://github.com/auremoser/pirateplotr](https://github.com/auremoser/pirateplotr)
+
+Demo: [http://auremoser.github.io/pirateplotr/](http://auremoser.github.io/pirateplotr/)
+
+* Fulfills Gantt chart ask
+* Google spreadsheet based
+* All open source, can be forked and reimplemented
+* Detailed readme instructions FTW :thumbsup:
+
+Who to talk to:
+
+* [@auremoser](https://twitter.com/auremoser) made it :)
 
 ### Mingle
 _Agile Project Management_
