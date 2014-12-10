@@ -61,6 +61,19 @@ Who to talk to:
 * @phillipadsmith 
 * @auremoser
 
+## StackEdit
+_In-browser markdown editor_
+
+https://stackedit.io/
+
+This is actually quite interesting:
+* Markdown editor with support to save the file almost anywhere. :thumbsup:
+* Open source, lots of plugins. :thumbsup:
+* No version history support yet :thumbsdown:
+
+Who to talk to:
+* 
+
 ## WebODF
 _WebODF: work with your office files in the cloud, on the desktop and on your mobile_
 
