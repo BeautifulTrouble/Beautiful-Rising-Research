@@ -92,6 +92,11 @@ https://opengarden.com/firechat
 
 Who to talk to:
 
+### Git-Annex & Git-Annex Assistant
+_The git-annex assistant creates a synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services. The contents of the folder are the same everywhere. It's very easy to use, and has all the power of git and git-annex._
+
+https://git-annex.branchable.com/assistant/
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
