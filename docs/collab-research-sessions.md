@@ -12,6 +12,9 @@ The minimum requirements for the project's needs are:
 * Session participants should be able to collaborate without Internet access, specifically:
 * Share documents of any kind between participants, and with the session facilitators
 * Collaboratively edit text-based documents
+* Have country context knowledge of information laws, rights, and surveillance before facilitating.  A working document or resource bank that covers changes to laws and institutional capacities.
+
+Anna Levy adds: I think for all of these, we have to consider options that are not 'open' given the degree of secrecy needed for activists and advocates to do their work effectively and without fear of reprisal.
 
 The "would be nice" requirements are:
 

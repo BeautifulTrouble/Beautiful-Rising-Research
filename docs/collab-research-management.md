@@ -21,6 +21,10 @@ The "would be nice" requirements are:
 * Moving one date/task, moves related dates/tasks
 * A Gantt chart type view of dates
 
+Via Anna Levy:
+
+> Perhaps this falls under 'nested tasks', but it would be very interesting to find a platform that leaves room for individual advisors and Southern partners to do concentrated work/cooperation within the platform (though in a separate space). More than having the separate space, I'm imagining something that allows Southern users to see a menu of skills and interests offered by each advisor, and leave room for direct interaction.
+
 ## Solutions to explore
 
 ### Riseup mailing list
