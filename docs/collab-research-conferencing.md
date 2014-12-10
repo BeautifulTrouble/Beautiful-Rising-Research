@@ -92,6 +92,42 @@ Anny Levy says:
 
 > If not already on your list, Bluejeans (while not free), is low cost and has become a very widespread tool for video/audioconferencing with multiple people calling in from different places.
 
+### Tox
+_A New Kind of Instant Messaging_
+
+> Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. 
+
+https://tox.im/#about
+
+* Messages
+* Calls
+* Video
+
+### qTox
+_designed as a secure skype replacement._
+
+https://github.com/tux3/qTox
+
+* One to one chat with friends
+* Group chats
+* File transfers, with previewing of images
+* Audio calls, including group calls
+* Video calls
+* Tox DNS and Tox URI support
+* Translations in various languages
+* Avatars
+* Auto-updates on Windows and Mac, packages on Linux
+
+Who to talk to:
+* Mentioned by Ross
+
+### Mumble
+_Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming._
+
+Ross says:
+
+> I would also include mumble as an option, it's super low bandwidth and the most stable solution I know of at this point. The only barrier is the initial configuration, but after that it's pretty amazing for what it does.
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
