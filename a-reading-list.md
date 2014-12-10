@@ -8,6 +8,8 @@ Beautiful Rising: A reading list
 * [OOKLA's Net Index](http://www.netindex.com/download/map): Again, question of who self-selects to use the speed test, but large data set and data on several of the countries that Beautiful Rising is looking at.
 
 
+
+
 ## Engagement strategies: apps, devices, etc. 
 
 * [How AJ+ and Norway's NRK are engaging millennials](https://www.journalism.co.uk/news/snappy-conversation-how-aj-and-norway-s-nrk-are-engaging-millennials/s2/a563112/)
