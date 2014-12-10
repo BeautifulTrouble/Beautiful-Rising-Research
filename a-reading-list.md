@@ -7,8 +7,9 @@ Beautiful Rising: A reading list
 
 * [OOKLA's Net Index](http://www.netindex.com/download/map): Again, question of who self-selects to use the speed test, but large data set and data on several of the countries that Beautiful Rising is looking at.
 
+## Anonymity 
 
-
+* [Good read on how to use Github anonymously](https://wiki.tox.im/DevAnonymity)
 
 ## Engagement strategies: apps, devices, etc. 
 
