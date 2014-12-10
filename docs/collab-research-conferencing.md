@@ -30,6 +30,14 @@ http://bigbluebutton.org/
 
 Who to talk to:
 * @phillipadsmith for the [The Knight-Mozilla learning lab ](https://p2pu.org/en/groups/knight-mozilla-learning-lab/)
+* Ross at Mayfirst about their instance of BBB
+
+## Glocal/Mayfirst's Mexcla
+
+From Ross:
+
+> Our audio conferencing system is up and running at and currently has two language support built in. 
+> Glocal is building it out to be a full multi-lingual conferencing system with moderation capabilities as well.
 
 ### Jitsi web conferences / JITSI MEET
 _Secure video calls, conferencing, chat, desktop sharing, file transfer, support for your favorite OS, and IM network. All this, and more, in Jitsi - the most complete and advanced open source communicator._
@@ -57,6 +65,7 @@ Who to talk to:
 
 ###  Jitsi (SIP Communicator)
 _Skype alternative: video calls, conferencing, chat, file transfer, etc._
+
 https://jitsi.org/Main/Download
 
 * Cross-platform: Linux, Windows, Mac :thumbsup:
@@ -69,7 +78,19 @@ _Anonymous, peer to peer, video chat built on open source awesome_
 
 https://talky.io/
 
+###  Bluejeans
+_Cloud-based video collaboration service, you can forget about needing any additional hardware or software._
 
+http://bluejeans.com/features
+
+* Multi-Vendor, Multi-Device Interoperability :thumbsup:
+* Mobile and Browser Integration :thumbsup:
+* Secure Meetings :thumbsup:
+* Seems to require a browser plug-in :thumbsdown:
+
+Anny Levy says:
+
+> If not already on your list, Bluejeans (while not free), is low cost and has become a very widespread tool for video/audioconferencing with multiple people calling in from different places.
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org

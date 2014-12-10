@@ -21,6 +21,10 @@ The "would be nice" requirements are:
 * Suggest changs (vs. editing directly)
 * Anonymous edits / privacy options
 
+Also, Anna Levy said:
+
+> For advocates and activists in the Global South, it's important for these shared doc options (not necessarily for us) to have multi-platform contribution options. I.e., people can send in SMS and contribute to docs in progress. It doesn't need to be SMS specific, but assuming that service areas will be shaky, it would be interesting to have options for sharing into a doc without opening a computer or smartphone.
+
 ## Solutions to explore
 
 ### Markdown text on Github
@@ -56,6 +60,14 @@ http://etherpad.org
 Who to talk to:
 * @phillipadsmith 
 * @auremoser
+
+## WebODF
+_WebODF: work with your office files in the cloud, on the desktop and on your mobile_
+
+http://webodf.org/
+
+From Ross:
+> What we're looking to for real document editing is webodf http://webodf.org/. Owncloud has implemented this in recent versions, and it looks extremely promising.
 
 ## VEtherpad
 _Skype and Hangouts alternative_

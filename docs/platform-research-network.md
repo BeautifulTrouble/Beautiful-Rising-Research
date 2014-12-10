@@ -87,6 +87,17 @@ _WhatsApp Messenger is a cross-platform mobile messaging app which allows you to
 * Not open source :thumbsdown:
 * Partnered with Facebook :question:
 
+### Movim
+_A brand new social network, full of awesome features in a modern and smart interface._
+
+> Movim is a social project like no others. Because it's based on a standard network, you can be connected with users that are not currently using Movim without any restriction.
+
+* XMPP-based social network :thumbsup:
+* F/LOSS software :thumbsup:
+
+Who to talk to
+* Ross at Mayfirst mentioned it
+
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
