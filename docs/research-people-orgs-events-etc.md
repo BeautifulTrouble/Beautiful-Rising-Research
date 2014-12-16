@@ -1,5 +1,12 @@
-Beautiful Rising: A list of interesting people, orgs, events, etc.
+Beautiful Rising: A list of interesting databases, people, orgs, events, etc.
 =====================================================================
+
+## Databases
+
+The following databases & toolkits of creative activism should prove very useful:
+* Global Nonviolent Action Database http://nvdatabase.swarthmore.edu/
+* New Tactics https://www.newtactics.org/
+* Actipedia http://actipedia.org/ 
 
 ## People
 * Philipp Ronnenberg, Creative Technologist, Designer, Inventor, http://phiron.de/pages/about/
@@ -8,12 +15,5 @@ Beautiful Rising: A list of interesting people, orgs, events, etc.
 ## Organizations
 
 ## Events
-
-## Databases
-
-The following databases of creative activism should prove very useful:
-* Global Nonviolent Action Database http://nvdatabase.swarthmore.edu/
-* New Tactics https://www.newtactics.org/
-* Actipedia http://actipedia.org/ 
 
 ## Etc.
