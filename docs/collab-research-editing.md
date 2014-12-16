@@ -21,6 +21,12 @@ The "would be nice" requirements are:
 * Suggest changs (vs. editing directly)
 * Anonymous edits / privacy options
 
+Initial document loading will include:
+
+* 4-5 templates (tactics, theories, principles, case studies)
+* 10 modules transfered to Beautiful Rising editing format
+* A long list (~50) of Beautiful Trouble modules that could be used in Beautiful Rising
+
 Also, Anna Levy said:
 
 > For advocates and activists in the Global South, it's important for these shared doc options (not necessarily for us) to have multi-platform contribution options. I.e., people can send in SMS and contribute to docs in progress. It doesn't need to be SMS specific, but assuming that service areas will be shaky, it would be interesting to have options for sharing into a doc without opening a computer or smartphone.
