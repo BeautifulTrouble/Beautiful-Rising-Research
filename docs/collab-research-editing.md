@@ -31,7 +31,23 @@ Also, Anna Levy said:
 
 > For advocates and activists in the Global South, it's important for these shared doc options (not necessarily for us) to have multi-platform contribution options. I.e., people can send in SMS and contribute to docs in progress. It doesn't need to be SMS specific, but assuming that service areas will be shaky, it would be interesting to have options for sharing into a doc without opening a computer or smartphone.
 
-## Solutions to explore
+## Solution to be piloted
+
+For the initial in-country session in Burma/Myanmar, we have decided to pilot a collaborative document-editing solution on top of plain-text [Markdown][markdown] files and [Github][github]. We believe that this combination will provide the in-country session participants with:
+
+* Low-tech, offline-friendly ways to access templates and example documents
+* A privacy-enhancing environment, where no web services or log-ins are *required* to contribute
+
+Additionally, it will enable session facilitators to:
+
+* Travel with the documents on a USB key
+* Work on the documents offline / without access to the Internet
+
+More broadly, we believe that "working in the open" on Github will benefit the project and the larger community. Documents hosted on Github are publicly avaialble without requiring registration (we will provide direction on how to access them anonymously) and can be easily shared and improved.
+
+As we move from the in-country session work to the curation and co-editing work, we will endeavour to improve existing tools (like those listed below) to make the editing, reviewing, and submission experiences as non-technical and user-friendly as possible.
+
+If you have questions, comments, or suggestions on the above, [please let us know][team].
 
 ### Markdown text on Github
 _Markdown text documents on Github (like this very document)._
@@ -52,6 +68,9 @@ http://prose.io/#about
 _A tool for facilitating the redlining of documents with the GitHub uninitiated_
 https://github.com/benbalter/redliner
 
+----
+
+## Solutions explored
 
 ## Etherpad
 _Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time._
@@ -163,3 +182,6 @@ Who to talk to:
 [bsol]: http://beautifulsolutions.info
 [brising]: http://beautifulrising.org
 [advisorynetwork]: http://beautifulrising.org/news/#announcing-the-first-members-of-the-beautiful-rising-advisory-network
+[markdown]: https://help.github.com/articles/github-flavored-markdown/
+[github]: https://github.com/
+[team]: the-team-and-contributors.md
