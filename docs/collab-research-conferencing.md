@@ -18,26 +18,22 @@ The "would be nice" requirements are:
 * Video conferencing for multiple participants
 * Slide or screen sharing
 
-## Solutions
+## Solution to be piloted
 
-### Big Blue Button
-_BigBlueButton enables you to share documents (PDF and any office document), webcams, chat, audio and your desktop. It can also record sessions for later playback._
-http://bigbluebutton.org/
+For the initial in-country session in Burma/Myanmar, we have decided to pilot the Jitsi audio/video conferencing solution(s). We believe that this combination will provide the in-country sessions with:
 
-* Open source software :thumbsup:
-* Hosted & commercial support options available :thumbsup:
-* Hosted in Canada :thumbsup:
+* An audio/video "window" into the event for remote participants
+* A privacy-enhancing environment, where no web services or log-ins are required to access the conference
 
-Who to talk to:
-* @phillipadsmith for the [The Knight-Mozilla learning lab ](https://p2pu.org/en/groups/knight-mozilla-learning-lab/)
-* Ross at Mayfirst about their instance of BBB
+Additionally, it will enable session facilitators, and our team more broadly, to:
 
-## Glocal/Mayfirst's Mexcla
+* Set-up permanent "rooms" for various working groups
+* Work on a shared document (integrated Etherpad)
+* Record session audio when necessary
 
-From Ross:
+We will explore hosting this solution on Beautiful Rising infastructure to help to ensure that access and session logs are in our control, and possibly to provide access to the service through a hidden Tor service.
 
-> Our audio conferencing system is up and running at and currently has two language support built in. 
-> Glocal is building it out to be a full multi-lingual conferencing system with moderation capabilities as well.
+If you have questions, comments, or suggestions on the above, [please let us know][team].
 
 ### Jitsi web conferences / JITSI MEET
 _Secure video calls, conferencing, chat, desktop sharing, file transfer, support for your favorite OS, and IM network. All this, and more, in Jitsi - the most complete and advanced open source communicator._
@@ -72,6 +68,30 @@ https://jitsi.org/Main/Download
 
 Who to talk to:
 * Your name here...
+
+
+----- 
+
+## Solutions explored
+
+### Big Blue Button
+_BigBlueButton enables you to share documents (PDF and any office document), webcams, chat, audio and your desktop. It can also record sessions for later playback._
+http://bigbluebutton.org/
+
+* Open source software :thumbsup:
+* Hosted & commercial support options available :thumbsup:
+* Hosted in Canada :thumbsup:
+
+Who to talk to:
+* @phillipadsmith for the [The Knight-Mozilla learning lab ](https://p2pu.org/en/groups/knight-mozilla-learning-lab/)
+* Ross at Mayfirst about their instance of BBB
+
+## Glocal/Mayfirst's Mexcla
+
+From Ross:
+
+> Our audio conferencing system is up and running at and currently has two language support built in. 
+> Glocal is building it out to be a full multi-lingual conferencing system with moderation capabilities as well.
 
 ### Talky.io
 _Anonymous, peer to peer, video chat built on open source awesome_
