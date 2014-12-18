@@ -9,9 +9,11 @@ Beautiful Rising: A reading list
 
 * [Offline-First Web Apps](https://github.com/pazguille/offline-first)
 
-## Anonymity 
+## Anonymity & encryption
 
 * [Good read on how to use Github anonymously](https://wiki.tox.im/DevAnonymity)
+* [Making end-to-end encryption easier to use](http://googleonlinesecurity.blogspot.ca/2014/06/making-end-to-end-encryption-easier-to.html) -- this is *huge*
+
 
 ## Engagement strategies: apps, devices, etc. 
 
