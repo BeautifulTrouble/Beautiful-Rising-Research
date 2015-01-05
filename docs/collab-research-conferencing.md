@@ -148,6 +148,17 @@ Ross says:
 
 > I would also include mumble as an option, it's super low bandwidth and the most stable solution I know of at this point. The only barrier is the initial configuration, but after that it's pretty amazing for what it does.
 
+### Ostel
+_Ostel is a tool for having end-to-end encrypted phone calls._
+
+https://ostel.co/about
+
+* Cross-platform, kinda' :thumbsup:
+* Open source software :thumbsup:
+* Encryted :thumbsup:
+* Free worldwide calling :thumbsup:
+* Part of the Guardian Project :thumbsup:
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
