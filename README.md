@@ -2,7 +2,7 @@ Beautiful Rising Collaboration & Knowledge Platform Research
 ============================================================
 
 > **Beautiful Rising: A Global Toolbox for Changemakers**
-> [ActionAid Denmark][aadk] & [Beautiful Trouble][bt] are teaming up with activists, movements & organizations across the Global South to assemble a toolkit of creative activism that will showcase the innovative tactics & strategies of southern social movements. 
+> [ActionAid Denmark][aadk] & [Beautiful Trouble][bt] are teaming up with activists, movements & organizations across the Global South to assemble a toolkit of creative activism that will showcase the innovative tactics & strategies of southern social movements.
 
 **Research question**: What are the most "appropriate technologies" for collaboration & content delivery when working with activists and organizers in the Global South?
 
@@ -15,11 +15,11 @@ Beautiful Rising Collaboration & Knowledge Platform Research
 * For resources to be available in, and submitted in, multiple languages.
 For different target audiences to be able to access, or download, different versions of the resource according to their specific needs, e.g., a “Trainers Edition.”
 * To ensure that all of the tools & material created are released under a proper creative commons or open source license, and that both the code and content are easily accessible on Github.
-* Where possible, to improve the existing tools available for translating content into different languages, and to ensure these tools can be improved by others. 
+* Where possible, to improve the existing tools available for translating content into different languages, and to ensure these tools can be improved by others.
 
 ## Technology for collaboration in the Global South
 
-To work toward the stated project objectives, Beautiful Rising will undertake a series of in-country ~~workshops~~ “listening sessions” in Uganda, Zimbabwe, Myanmar, Bangladesh and ~~Egypt~~ Jordan. 
+To work toward the stated project objectives, Beautiful Rising will undertake a series of in-country ~~workshops~~ “listening sessions” in Uganda, Zimbabwe, Myanmar, Bangladesh and ~~Egypt~~ Jordan.
 
 Each of these workshops will be followed by a period of online collaboration that will endeavor to encourage, edit, and curate content developed by local activists. That content will then, in turn, be added to the knowledge platform, translated into other languages, and promoted to a wider network.
 
@@ -42,11 +42,11 @@ We'll probably need to expand this list as we undertake the in-country sessions 
 
 ## Technology for content delivery in the Global South
 
-As the in-country session and post-workshop editing sprints get underway, we will shift our attention toward creating a public website and/or applications for delivering the content. We are referring to this entire ecosystem of content delivery (and the tools for sharing, remixing, translating, and otherwise improving that content) as the “knowledge platform.” 
+As the in-country session and post-workshop editing sprints get underway, we will shift our attention toward creating a public website and/or applications for delivering the content. We are referring to this entire ecosystem of content delivery (and the tools for sharing, remixing, translating, and otherwise improving that content) as the “knowledge platform.”
 
 ### Example use cases
 
-For context, here are our example use cases of how the platform might be used: 
+For context, here are our example use cases of how the platform might be used:
 
 * Gay rights activist in Uganda searches for new tactics to use in her/his work, and information about activist organizations doing similar work in other countries, but struggles with slow Internet speeds.
 * Free expression activist in Myanmar seeks resources for creative activism workshop and training, but Internet censorship make finding and disseminating the material difficult.
