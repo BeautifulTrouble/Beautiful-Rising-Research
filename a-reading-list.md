@@ -9,6 +9,8 @@ Beautiful Rising: A reading list
 
 * [Offline-First Web Apps](https://github.com/pazguille/offline-first)
 
+* [HTML5 for older, slower devices](http://www.scottlogic.com/blog/2014/12/12/html5-android-optimisation.html)
+
 ## Anonymity & encryption
 
 * [Good read on how to use Github anonymously](https://wiki.tox.im/DevAnonymity)
@@ -18,4 +20,5 @@ Beautiful Rising: A reading list
 ## Engagement strategies: apps, devices, etc. 
 
 * [How AJ+ and Norway's NRK are engaging millennials](https://www.journalism.co.uk/news/snappy-conversation-how-aj-and-norway-s-nrk-are-engaging-millennials/s2/a563112/)
+
 
