@@ -169,6 +169,11 @@ _Cryptocat is a fun, accessible app for having encrypted chat with your friends,
 
 https://crypto.cat/
 
+### Telegram
+_Telegram is a messaging app with a focus on speed and security, it’s superfast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any of your phones, tablets or computers._
+
+https://telegram.org/
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
