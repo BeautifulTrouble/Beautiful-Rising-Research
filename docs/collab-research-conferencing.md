@@ -164,6 +164,11 @@ _Seecrypt SC3 allows you to make and receive secure voice calls and text message
 
 https://www.seecrypt.com/
 
+### Cryptocat
+_Cryptocat is a fun, accessible app for having encrypted chat with your friends, right in your browser and mobile phone. Cryptocat is open source, free software, developed by encryption professionals to make privacy accessible to everyone._
+
+https://crypto.cat/
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
