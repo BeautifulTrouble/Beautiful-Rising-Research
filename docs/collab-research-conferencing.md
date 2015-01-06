@@ -174,6 +174,11 @@ _Telegram is a messaging app with a focus on speed and security, it’s superfas
 
 https://telegram.org/
 
+### Chatsecure
+_ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. ChatSecure was originally available for only iOS devices, but is now also available on Android via The Guardian Project’s similar app, formerly named Gibberbot._
+
+https://chatsecure.org/about/
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
