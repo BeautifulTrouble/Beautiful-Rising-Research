@@ -159,6 +159,11 @@ https://ostel.co/about
 * Free worldwide calling :thumbsup:
 * Part of the Guardian Project :thumbsup:
 
+### Seecrypt 
+_Seecrypt SC3 allows you to make and receive secure voice calls and text messages between Seecrypt-enabled devices, anywhere in the world._
+
+https://www.seecrypt.com/
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
