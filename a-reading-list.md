@@ -15,6 +15,7 @@ Beautiful Rising: A reading list
 
 * [Good read on how to use Github anonymously](https://wiki.tox.im/DevAnonymity)
 * [Making end-to-end encryption easier to use](http://googleonlinesecurity.blogspot.ca/2014/06/making-end-to-end-encryption-easier-to.html) -- this is *huge*
+* [Communicating with Others](https://ssd.eff.org/en/playlist/want-security-starter-pack#communicating-others)
 
 
 ## Engagement strategies: apps, devices, etc. 
