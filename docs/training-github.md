@@ -9,4 +9,7 @@ Beautiful Rising: Training resources, Github
 ## Useful material to draw from
 
 * [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/) (Which is how we'll encourage people to work when Internet access is available.)
+* https://try.github.io/levels/1/challenges/1
 * [Good overview of using the Github clients](http://dannguyen.github.io/github-for-portfolios/)
+* http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oAh764aNbWfqyH
+* https://github.com/tiimgreen/github-cheat-sheet
