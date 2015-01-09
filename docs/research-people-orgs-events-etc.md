@@ -14,6 +14,9 @@ The following databases & toolkits of creative activism should prove very useful
 
 ## Organizations
 
+* https://www.theengineroom.org
+* https://responsibledata.io/
+
 ## Events
 
 ## Etc.
