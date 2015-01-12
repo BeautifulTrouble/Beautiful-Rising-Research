@@ -98,6 +98,10 @@ _A brand new social network, full of awesome features in a modern and smart inte
 Who to talk to
 * Ross at Mayfirst mentioned it
 
+### Pixelated
+_Modern email with encryption._
+
+https://pixelated-project.org/
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
