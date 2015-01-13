@@ -8,7 +8,7 @@ Beautiful Rising: The Team, Advisory Network & Contributors
 * Andrew Boyd, Editorial. [PGP/Keybase](https://keybase.io/brotherboyd)
 * Adrian Carpenter, Tech. [PGP/Keybase](https://keybase.io/adriancarpenter)
 * Casper Knudsen, Operations. 
-* Cristian Fleming, Design. 
+* Cristian Fleming, Design. 917-664-7041 (Redphone/Signal), cristian@thepublicsociety.com (ChatSecure)
 * Dave Mitchell, Editorial. [PGP/Keybase](https://keybase.io/daveomitchell)
 * Phillip Smith, Tech. [PGP/Keybase](https://keybase.io/phillipadsmith), 647 361 8248 (Redphone/Signal), phillipadsmith AT jabber DOT org (ChatSecure)
 * Shirley Wang, Design. [PGP/Keybase](https://keybase.io/shirleysquirrely)
