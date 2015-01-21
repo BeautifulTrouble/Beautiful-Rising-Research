@@ -10,7 +10,7 @@ Beautiful Rising: The Team, Advisory Network & Contributors
 * Frank Kearl, Finance, Redphone/Signal: 210-391-1293, Chatsecure: frankkearl AT dukgo DOT com
 * Casper Knudsen, Operations. 
 * Cristian Fleming, Design. [PGP/Keybase](https://keybase.io/cristianffff) 917-664-7041 (Redphone/Signal), cristian AT thepublicsociety DOT com (ChatSecure)
-* Dave Mitchell, Editorial. [PGP/Keybase](https://keybase.io/daveomitchell), Redphone: (011) 52 951 122 2738
+* Dave Mitchell, Editorial. [PGP/Keybase](https://keybase.io/daveomitchell), Redphone/Telegram: (011) 52 951 122 2738
 * Phillip Smith, Tech. [PGP/Keybase](https://keybase.io/phillipadsmith), 647 361 8248 (Redphone/Signal), phillipadsmith AT jabber DOT org (ChatSecure)
 * Shirley Wang, Design. [PGP/Keybase](https://keybase.io/shirleysquirrely)
 * Soren Warburg, Operations. [PGP/Keybase](https://keybase.io/sorenwar), Redphone: +45 27629500,
