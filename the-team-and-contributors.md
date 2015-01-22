@@ -6,7 +6,6 @@ Beautiful Rising: The Team, Advisory Network & Contributors
 * Rae Abileah, Training. [PGP/Keybase](https://keybase.io/raeabileah), Redphone/Signal: 415-994-172, Chatsecure: rae.abileah AT gmail DOT com
 * Diana Haj Ahmad, Design. [PGP/Keybase](https://keybase.io/diana_tps), 
 * Nadine Bloch, Training [PGP/Keybase](https://keybase.io/nadinebloch)
->>>>>>> Added Nadine
 * Andrew Boyd, Editorial. [PGP/Keybase](https://keybase.io/brotherboyd)
 * Adrian Carpenter, Tech. [PGP/Keybase](https://keybase.io/adriancarpenter), Signal/RedPhone: 5105208954, Chatsecure: adrian.carpenter AT 0nl1ne DOT at
 * Frank Kearl, Finance, Redphone/Signal: 210-391-1293, Chatsecure: frankkearl AT dukgo DOT com
