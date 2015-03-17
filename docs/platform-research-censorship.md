@@ -84,6 +84,37 @@ https://opengarden.com/firechat
 * Enables peer-to-peer communication over wi-fi or Bluetooth.
 * Not open source :thumbsdown:
 
+### Telegram Messenger
+_Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed._
+
+https://telegram.org/
+
+* Web, OSX, iOS, Android :thumbsup:
+* Open API and protocol
+
+### Tutanota
+_Now you can encrypt emails the easy way!_
+
+* Open source
+* Mobile apps
+* Encrypted
+* Made in Germany, hosted in Germany
+
+### Peerio
+_Secure messaging and file sharing made easy._
+
+https://www.peerio.com/
+
+* Canadian company :thumbsup:
+* Not completely open source (client, yes; backend, no)
+
+### Whiteout Mail
+_Whiteout Mail is the first email solution with end-to-end encryption based on open standards that has a beautiful user interface and is easy to use. We support all major platforms and form factors (Windows and Firefox coming soon)._
+
+https://whiteout.io/#product
+
+### Witkit
+https://witkit.com/
 
 ## Other research & reviews
 
