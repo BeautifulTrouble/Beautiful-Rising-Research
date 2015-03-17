@@ -21,5 +21,5 @@ Beautiful Rising: A reading list
 ## Engagement strategies: apps, devices, etc. 
 
 * [How AJ+ and Norway's NRK are engaging millennials](https://www.journalism.co.uk/news/snappy-conversation-how-aj-and-norway-s-nrk-are-engaging-millennials/s2/a563112/)
-
+* With over 7 years of real field experience, our experts help our partners design mobile data interventions that maximize impact.Create long-term, result-focused interventions that rely on the power of interactive voice content to engage.Real-time data generated helps our partners drive behavioral change in communities. https://www.awaaz.de/
 
