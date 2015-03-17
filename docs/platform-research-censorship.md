@@ -119,6 +119,7 @@ https://witkit.com/
 ## Other research & reviews
 
 * [The Best Secure Messaging Tools](http://projects.propublica.org/graphics/privacy-tools)
+* [Tunneling Internet traffic over FB chat.](https://github.com/matiasinsaurralde/facebook-tunnel)
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
