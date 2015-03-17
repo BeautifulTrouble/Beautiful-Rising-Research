@@ -9,9 +9,8 @@ The following databases & toolkits of creative activism should prove very useful
 * Actipedia http://actipedia.org/ 
 
 ## People
-* Philipp Ronnenberg, Creative Technologist, Designer, Inventor, http://phiron.de/pages/about/
-* 
-
+* [Philipp Ronnenberg](https://twitter.com/MoizSyed), Creative Technologist, Designer, Inventor
+* [Moiz Syed](https://twitter.com/MoizSyed), UX Designer for @Wikimedia + @Wikipedia. Made @HowWrongYouAre. Previously @TheHipmunk. Bumbling with ideas. 
 ## Organizations
 
 * https://www.theengineroom.org
