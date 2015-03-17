@@ -179,6 +179,9 @@ _ChatSecure is a free and open source encrypted chat client for iPhone and Andro
 
 https://chatsecure.org/about/
 
+### Hello
+https://www.mozilla.org/en-US/firefox/hello/
+
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
 [bsol]: http://beautifulsolutions.info
