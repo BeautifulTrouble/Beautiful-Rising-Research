@@ -120,6 +120,7 @@ https://witkit.com/
 
 * [The Best Secure Messaging Tools](http://projects.propublica.org/graphics/privacy-tools)
 * [Tunneling Internet traffic over FB chat.](https://github.com/matiasinsaurralde/facebook-tunnel)
+* [Yahoo End To End Email Encryption Preview](http://ps.ht/1BQYUKE)
 
 [aadk]: http://actionaid.org
 [bt]: http://beautifultrouble.org
